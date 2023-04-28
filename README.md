@@ -1,6 +1,6 @@
-# Hello World, I'm HWAJUNG CHOI👋 
-## I started studying programming this year.
-## I will study hard and conquer this programming world.
+## Hello World, I'm HWAJUNG CHOI👋 
+### I started studying programming this year.\n
+I will study hard and conquer this programming world.
 
 ##### My Programming Language 
 ![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white)
