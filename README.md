@@ -1,4 +1,4 @@
-<h1>Hello World, I'm Hwajung.☺️
+<h1>Hello World, I'm Hwajung☺️
 </h1>
 Welcome to my page! 
 
@@ -14,6 +14,7 @@ Welcome to my page!
 - 📝 learning something
 - 🍽️ eating 
 - 💙 listening to music, specially LUCY(Korean band) and King gnu(Japanese band) 💙
+- 👩🏻‍💻🍎 apple products  
 
 
 
