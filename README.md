@@ -32,7 +32,7 @@ Welcome to my page!
 ### 🌟 My Solved.ac Profile🔥
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=lyong4432)](https://solved.ac/lyong4432)
 
-
+![Hwajung's github stats](https://github-readme-stats.vercel.app/api?username=Hwajung&show_icons=true&theme=merko)
 <!--
 **lyong4432/lyong4432** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
