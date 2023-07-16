@@ -7,8 +7,8 @@
 
 ### 🌟 Who Am I 
 - 🇰🇷🇯🇵 I'm Korean and Japanese.
-- 📝 I'm a senior in Sunmoon University, major in AI Software.💻
-- 📝 I changed my major in this semister (2023-1) and started studying programming. 
+- 📝 I'm a senior at Sunmoon University, majoring in AI Software.💻
+- 📝 I changed my major last semester (2023-1) and started studying programming. 
 
 
 
