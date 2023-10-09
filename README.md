@@ -12,8 +12,8 @@
 
 ### 🌟 What I Like
 - 📝 learning something
-- 🍽️ eating 
-- 💿💙 listening to music, specially LUCY(Korean band) and King gnu(Japanese band) 💙
+- 🍽️ eating sweets
+- 💿💙 listening to music
 - 👩🏻‍💻🍎 apple products  
 - 📖🖊️ writing a diary
 - 🏃🏻‍♀️ walking
