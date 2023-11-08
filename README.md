@@ -6,7 +6,8 @@
 ### 🌟 Who Am I 
 - 🇰🇷🇯🇵 I'm Korean and Japanese.
 - 📝 I'm a senior at SMU, majoring in AI Software.💻
-- 📝 I changed my major last semester (2023-1) and started studying programming. 
+- 📝 I changed my major last semester (2023-1) and started studying programming.
+- I am now employed by the company. 
 
 
 
