@@ -27,9 +27,9 @@
 ![MySQL](https://img.shields.io/badge/MySQL-3776AB.svg?&amp;style=for-the-badge&amp;logo=MySQL&amp;logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lyong4432)](https://github.com/anuraghazra/github-readme-stats)
 ### 🌟 My Solved.ac Profile 🔥
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=lyong4432)](https://solved.ac/lyong4432)
 
@@ -51,9 +51,9 @@
 
 ### 🌟What I've used (at least once)😆 
 
-
+![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+
 
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
