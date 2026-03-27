@@ -28,7 +28,7 @@
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lyong4432)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lyong4432)](https://github.com/anuraghazra/github-readme-stats) -->
 ### 🌟 My Solved.ac Profile 🔥
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=lyong4432)](https://solved.ac/lyong4432)
 
